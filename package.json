@@ -23,7 +23,7 @@
     "eslint-plugin-flowtype": "^2.46.1",
     "eslint-plugin-prettier": "^2.6.0",
     "golery-slate-prism": "0.6.0-golery.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.17",
     "outline-icons": "^1.6.0",
     "prismjs": "^1.16.0",
     "react-autosize-textarea": "^6.0.0",
